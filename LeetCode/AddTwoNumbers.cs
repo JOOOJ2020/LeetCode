@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LeetCode
+﻿namespace LeetCode
 {
-    /*
+    /*https://leetcode.com/problems/add-two-numbers/
      * 2. Add Two Numbers 
         Total Accepted: 152521 Total Submissions: 641791 Difficulty: Medium
         You are given two linked lists representing two non-negative numbers. 
