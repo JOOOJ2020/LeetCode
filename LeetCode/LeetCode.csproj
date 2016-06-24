@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="3Sum.cs" />
     <Compile Include="AddTwoNumbers.cs" />
+    <Compile Include="MaximumSubarray.cs" />
+    <Compile Include="MergeIntervals.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveElement.cs" />
