@@ -50,6 +50,7 @@
     <Compile Include="ReverseInteger.cs" />
     <Compile Include="StringToInteger.cs" />
     <Compile Include="TwoSum.cs" />
+    <Compile Include="ValidParentheses.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
