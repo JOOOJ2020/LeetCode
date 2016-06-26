@@ -49,8 +49,10 @@
     <Compile Include="MergeIntervals.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveDuplicatesfromSortedList.cs" />
     <Compile Include="RemoveElement.cs" />
     <Compile Include="ReverseInteger.cs" />
+    <Compile Include="ReverseLinkedList2.cs" />
     <Compile Include="StringToInteger.cs" />
     <Compile Include="SwapNodesInPairs.cs" />
     <Compile Include="TwoSum.cs" />
