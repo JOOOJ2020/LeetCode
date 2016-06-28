@@ -55,6 +55,7 @@
     <Compile Include="RemoveElement.cs" />
     <Compile Include="ReverseInteger.cs" />
     <Compile Include="ReverseLinkedList2.cs" />
+    <Compile Include="SingleNumber.cs" />
     <Compile Include="StringToInteger.cs" />
     <Compile Include="SwapNodesInPairs.cs" />
     <Compile Include="TreeNode.cs" />
