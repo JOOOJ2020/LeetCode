@@ -46,6 +46,8 @@
     <Compile Include="3Sum.cs" />
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BinaryTreeInorderTraversal.cs" />
+    <Compile Include="BinaryTreePreorderTraversal.cs" />
+    <Compile Include="LinkedListCycle.cs" />
     <Compile Include="MaximumSubarray.cs" />
     <Compile Include="MergeIntervals.cs" />
     <Compile Include="PathSum.cs" />
