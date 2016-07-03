@@ -47,6 +47,7 @@
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BinaryTreeInorderTraversal.cs" />
     <Compile Include="BinaryTreePreorderTraversal.cs" />
+    <Compile Include="FindMinimuminRotatedSortedArray.cs" />
     <Compile Include="InsertionSortList.cs" />
     <Compile Include="LinkedListCycle.cs" />
     <Compile Include="MaximumSubarray.cs" />
