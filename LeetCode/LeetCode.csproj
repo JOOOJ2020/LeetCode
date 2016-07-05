@@ -58,6 +58,7 @@
     <Compile Include="RemoveDuplicatesfromSortedList.cs" />
     <Compile Include="RemoveElement.cs" />
     <Compile Include="RepeatedDNASequences.cs" />
+    <Compile Include="ReverseBits.cs" />
     <Compile Include="ReverseInteger.cs" />
     <Compile Include="ReverseLinkedList2.cs" />
     <Compile Include="SingleNumber.cs" />
