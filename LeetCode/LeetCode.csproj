@@ -47,11 +47,13 @@
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BinaryTreeInorderTraversal.cs" />
     <Compile Include="BinaryTreePreorderTraversal.cs" />
+    <Compile Include="BitwiseANDofNumbersRange.cs" />
     <Compile Include="FindMinimuminRotatedSortedArray.cs" />
     <Compile Include="InsertionSortList.cs" />
     <Compile Include="LinkedListCycle.cs" />
     <Compile Include="MaximumSubarray.cs" />
     <Compile Include="MergeIntervals.cs" />
+    <Compile Include="NumberOf1Bits.cs" />
     <Compile Include="PathSum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
