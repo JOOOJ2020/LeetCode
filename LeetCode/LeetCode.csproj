@@ -49,6 +49,7 @@
     <Compile Include="BinaryTreePreorderTraversal.cs" />
     <Compile Include="BitwiseANDofNumbersRange.cs" />
     <Compile Include="FindMinimuminRotatedSortedArray.cs" />
+    <Compile Include="HappyNumber.cs" />
     <Compile Include="InsertionSortList.cs" />
     <Compile Include="LinkedListCycle.cs" />
     <Compile Include="MaximumSubarray.cs" />
