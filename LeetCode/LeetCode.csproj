@@ -83,6 +83,7 @@
     <Compile Include="BinaryTreeInorderTraversal.cs" />
     <Compile Include="BinaryTreePreorderTraversal.cs" />
     <Compile Include="BitwiseANDofNumbersRange.cs" />
+    <Compile Include="ContainsDuplicateII.cs" />
     <Compile Include="CountPrimes.cs" />
     <Compile Include="FindMinimuminRotatedSortedArray.cs" />
     <Compile Include="HappyNumber.cs" />
