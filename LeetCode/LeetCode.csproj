@@ -87,6 +87,7 @@
     <Compile Include="FindMinimuminRotatedSortedArray.cs" />
     <Compile Include="HappyNumber.cs" />
     <Compile Include="InsertionSortList.cs" />
+    <Compile Include="IsomorphicStrings.cs" />
     <Compile Include="LinkedListCycle.cs" />
     <Compile Include="MaximumSubarray.cs" />
     <Compile Include="MergeIntervals.cs" />
