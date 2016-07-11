@@ -88,6 +88,7 @@
     <Compile Include="FindMinimuminRotatedSortedArray.cs" />
     <Compile Include="HappyNumber.cs" />
     <Compile Include="InsertionSortList.cs" />
+    <Compile Include="InvertBinaryTree.cs" />
     <Compile Include="IsomorphicStrings.cs" />
     <Compile Include="LinkedListCycle.cs" />
     <Compile Include="MaximumSubarray.cs" />
@@ -106,6 +107,7 @@
     <Compile Include="SingleNumber.cs" />
     <Compile Include="SingleNumberII.cs" />
     <Compile Include="StringToInteger.cs" />
+    <Compile Include="SummaryRanges.cs" />
     <Compile Include="SwapNodesInPairs.cs" />
     <Compile Include="TreeNode.cs" />
     <Compile Include="TwoSum.cs" />
