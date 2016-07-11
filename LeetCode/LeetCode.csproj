@@ -91,6 +91,7 @@
     <Compile Include="InvertBinaryTree.cs" />
     <Compile Include="IsomorphicStrings.cs" />
     <Compile Include="LinkedListCycle.cs" />
+    <Compile Include="MajorityElementII.cs" />
     <Compile Include="MaximumSubarray.cs" />
     <Compile Include="MergeIntervals.cs" />
     <Compile Include="NumberOf1Bits.cs" />
