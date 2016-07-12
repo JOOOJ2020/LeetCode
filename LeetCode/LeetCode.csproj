@@ -90,6 +90,7 @@
     <Compile Include="InsertionSortList.cs" />
     <Compile Include="InvertBinaryTree.cs" />
     <Compile Include="IsomorphicStrings.cs" />
+    <Compile Include="KthSmallestElementInABST.cs" />
     <Compile Include="LinkedListCycle.cs" />
     <Compile Include="MajorityElementII.cs" />
     <Compile Include="MaximumSubarray.cs" />
