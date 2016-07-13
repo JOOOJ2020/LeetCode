@@ -96,6 +96,7 @@
     <Compile Include="MaximumSubarray.cs" />
     <Compile Include="MergeIntervals.cs" />
     <Compile Include="NumberOf1Bits.cs" />
+    <Compile Include="PalindromeLinkedList.cs" />
     <Compile Include="PathSum.cs" />
     <Compile Include="PowerOfTwo.cs" />
     <Compile Include="Program.cs" />
