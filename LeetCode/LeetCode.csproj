@@ -118,6 +118,7 @@
     <Compile Include="SwapNodesInPairs.cs" />
     <Compile Include="TreeNode.cs" />
     <Compile Include="TwoSum.cs" />
+    <Compile Include="ValidAnagram.cs" />
     <Compile Include="ValidateBinarySearchTree.cs" />
     <Compile Include="ValidParentheses.cs" />
   </ItemGroup>
