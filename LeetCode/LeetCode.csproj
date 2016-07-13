@@ -92,6 +92,7 @@
     <Compile Include="IsomorphicStrings.cs" />
     <Compile Include="KthSmallestElementInABST.cs" />
     <Compile Include="LinkedListCycle.cs" />
+    <Compile Include="LowestCommonAncestorOfABinarySearchTree.cs" />
     <Compile Include="MajorityElementII.cs" />
     <Compile Include="MaximumSubarray.cs" />
     <Compile Include="MergeIntervals.cs" />
