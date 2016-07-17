@@ -79,6 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="3Sum.cs" />
+    <Compile Include="AddDigits.cs" />
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BinaryTreeInorderTraversal.cs" />
     <Compile Include="BinaryTreePreorderTraversal.cs" />
