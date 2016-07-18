@@ -89,6 +89,7 @@
     <Compile Include="CountPrimes.cs" />
     <Compile Include="DeleteNodeInALinkedList.cs" />
     <Compile Include="FindMinimuminRotatedSortedArray.cs" />
+    <Compile Include="FirstBadVersion.cs" />
     <Compile Include="HappyNumber.cs" />
     <Compile Include="InsertionSortList.cs" />
     <Compile Include="IntersectionOfTwoLinkedLists.cs" />
