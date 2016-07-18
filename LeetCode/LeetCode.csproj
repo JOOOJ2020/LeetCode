@@ -123,6 +123,7 @@
     <Compile Include="TreeNode.cs" />
     <Compile Include="TwoSum.cs" />
     <Compile Include="UglyNumber.cs" />
+    <Compile Include="UglyNumberII.cs" />
     <Compile Include="ValidAnagram.cs" />
     <Compile Include="ValidateBinarySearchTree.cs" />
     <Compile Include="ValidParentheses.cs" />
