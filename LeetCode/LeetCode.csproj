@@ -82,6 +82,7 @@
     <Compile Include="AddDigits.cs" />
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="BinaryTreeInorderTraversal.cs" />
+    <Compile Include="BinaryTreePaths.cs" />
     <Compile Include="BinaryTreePreorderTraversal.cs" />
     <Compile Include="BitwiseANDofNumbersRange.cs" />
     <Compile Include="ContainsDuplicateII.cs" />
