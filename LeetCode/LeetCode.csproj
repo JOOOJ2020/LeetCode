@@ -130,6 +130,7 @@
     <Compile Include="ValidAnagram.cs" />
     <Compile Include="ValidateBinarySearchTree.cs" />
     <Compile Include="ValidParentheses.cs" />
+    <Compile Include="WordPattern.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
