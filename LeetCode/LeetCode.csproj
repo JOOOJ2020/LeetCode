@@ -102,6 +102,7 @@
     <Compile Include="MajorityElementII.cs" />
     <Compile Include="MaximumSubarray.cs" />
     <Compile Include="MergeIntervals.cs" />
+    <Compile Include="MergeTwoSortedLists.cs" />
     <Compile Include="MissingNumber.cs" />
     <Compile Include="MoveZeroes.cs" />
     <Compile Include="NumberOf1Bits.cs" />
