@@ -106,6 +106,7 @@
     <Compile Include="MissingNumber.cs" />
     <Compile Include="MoveZeroes.cs" />
     <Compile Include="NumberOf1Bits.cs" />
+    <Compile Include="OddEvenLinkedList.cs" />
     <Compile Include="PalindromeLinkedList.cs" />
     <Compile Include="PathSum.cs" />
     <Compile Include="PowerOfTwo.cs" />
