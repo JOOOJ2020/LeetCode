@@ -134,6 +134,7 @@
     <Compile Include="ValidAnagram.cs" />
     <Compile Include="ValidateBinarySearchTree.cs" />
     <Compile Include="ValidParentheses.cs" />
+    <Compile Include="VerifyPreorderSerializationOfABinaryTree.cs" />
     <Compile Include="WordPattern.cs" />
   </ItemGroup>
   <ItemGroup>
