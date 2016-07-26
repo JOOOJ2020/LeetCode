@@ -95,6 +95,7 @@
     <Compile Include="HappyNumber.cs" />
     <Compile Include="IncreasingTripletSubsequence.cs" />
     <Compile Include="InsertionSortList.cs" />
+    <Compile Include="IntegerBreak.cs" />
     <Compile Include="IntersectionOfTwoLinkedLists.cs" />
     <Compile Include="InvertBinaryTree.cs" />
     <Compile Include="IsomorphicStrings.cs" />
