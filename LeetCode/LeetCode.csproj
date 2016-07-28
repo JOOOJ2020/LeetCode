@@ -90,6 +90,7 @@
     <Compile Include="CountingBits.cs" />
     <Compile Include="CountPrimes.cs" />
     <Compile Include="DeleteNodeInALinkedList.cs" />
+    <Compile Include="ExcelSheetColumnTitle.cs" />
     <Compile Include="FindMinimuminRotatedSortedArray.cs" />
     <Compile Include="FirstBadVersion.cs" />
     <Compile Include="HappyNumber.cs" />
