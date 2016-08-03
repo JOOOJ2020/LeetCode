@@ -120,6 +120,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RangeSumQueryImmutable.cs" />
+    <Compile Include="ReconstructItinerary.cs" />
     <Compile Include="RemoveDuplicatesfromSortedList.cs" />
     <Compile Include="RemoveElement.cs" />
     <Compile Include="RepeatedDNASequences.cs" />
