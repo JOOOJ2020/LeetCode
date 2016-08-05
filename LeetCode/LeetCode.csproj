@@ -129,6 +129,7 @@
     <Compile Include="ReverseLinkedList.cs" />
     <Compile Include="ReverseLinkedList2.cs" />
     <Compile Include="ReverseString.cs" />
+    <Compile Include="SearchA2DMatrix.cs" />
     <Compile Include="SearchA2DMatrixII.cs" />
     <Compile Include="SingleNumber.cs" />
     <Compile Include="SingleNumberII.cs" />
