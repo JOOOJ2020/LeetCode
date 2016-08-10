@@ -19,7 +19,7 @@ namespace LeetCode
      */
     internal class SetMatrixZeroes
     {
-        public void SetZeroes(int[,] matrix)
+        public void SetZeroes1(int[,] matrix)
         {
             if (matrix == null)
             {
@@ -48,6 +48,57 @@ namespace LeetCode
                     {
                         matrix[i, j] = 0;
                     }
+                }
+            }
+        }
+
+        /// <summary>
+        /// ------------------>
+        /// -            ^   ^
+        /// -            -   -
+        /// -            -   -
+        /// -            -   -
+        /// -            -   -
+        /// - ------------   -
+        /// V ----------------
+        /// </summary>
+        /// <param name="matrix"></param>
+        public void SetZeroes2(int[,] matrix)
+        {
+            if (matrix == null)
+            {
+                return;
+            }
+            bool col0 = false;
+            int rows = matrix.GetLength(0);
+            int cols = matrix.GetLength(1);
+            for (int i = 0; i < rows; i++)
+            {
+                if(matrix[i,0]==0)
+                {
+                    col0 = true;
+                }
+                for (int j = 1; j < cols; j++)
+                {
+                    if(matrix[i,j]==0)
+                    {
+                        matrix[i, 0] = 0;
+                        matrix[0, j] = 0;
+                    }
+                }
+            }
+            for (int i = rows-1; i >= 0; i--)
+            {
+                for (int j = cols - 1; j >= 1; j--)
+                {
+                    if(matrix[i,0]==0 || matrix[0,j]==0)
+                    {
+                        matrix[i, j] = 0;
+                    }
+                }
+                if(col0)
+                {
+                    matrix[i, 0] = 0;
                 }
             }
         }
