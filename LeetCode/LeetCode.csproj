@@ -137,6 +137,7 @@
     <Compile Include="SingleNumber.cs" />
     <Compile Include="SingleNumberII.cs" />
     <Compile Include="SingleNumberIII.cs" />
+    <Compile Include="Sqrt.cs" />
     <Compile Include="StringToInteger.cs" />
     <Compile Include="SummaryRanges.cs" />
     <Compile Include="SwapNodesInPairs.cs" />
