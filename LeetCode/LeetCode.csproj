@@ -92,6 +92,7 @@
     <Compile Include="DeleteNodeInALinkedList.cs" />
     <Compile Include="ExcelSheetColumnTitle.cs" />
     <Compile Include="FindMinimuminRotatedSortedArray.cs" />
+    <Compile Include="FindTheDifference.cs" />
     <Compile Include="FirstBadVersion.cs" />
     <Compile Include="FirstUniqueCharacterInAString.cs" />
     <Compile Include="HappyNumber.cs" />
