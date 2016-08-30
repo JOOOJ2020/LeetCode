@@ -87,6 +87,7 @@
     <Compile Include="BitwiseANDofNumbersRange.cs" />
     <Compile Include="BullsAndCows.cs" />
     <Compile Include="ConstructBinaryTreeFromInorderAndPostorderTraversal.cs" />
+    <Compile Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.cs" />
     <Compile Include="ContainsDuplicateII.cs" />
     <Compile Include="CountingBits.cs" />
     <Compile Include="CountPrimes.cs" />
