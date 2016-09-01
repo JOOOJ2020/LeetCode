@@ -126,6 +126,8 @@
     <Compile Include="RangeSumQueryImmutable.cs" />
     <Compile Include="RansomNote.cs" />
     <Compile Include="ReconstructItinerary.cs" />
+    <Compile Include="RemoveDuplicatesFromSortedArray.cs" />
+    <Compile Include="RemoveDuplicatesFromSortedArrayII.cs" />
     <Compile Include="RemoveDuplicatesfromSortedList.cs" />
     <Compile Include="RemoveElement.cs" />
     <Compile Include="RepeatedDNASequences.cs" />
