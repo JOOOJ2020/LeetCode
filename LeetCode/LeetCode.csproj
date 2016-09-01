@@ -137,6 +137,7 @@
     <Compile Include="SearchA2DMatrix.cs" />
     <Compile Include="SearchA2DMatrixII.cs" />
     <Compile Include="SearchForARange.cs" />
+    <Compile Include="SearchInsertPosition.cs" />
     <Compile Include="SetMatrixZeroes.cs" />
     <Compile Include="SingleNumber.cs" />
     <Compile Include="SingleNumberII.cs" />
