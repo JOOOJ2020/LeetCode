@@ -98,6 +98,7 @@
     <Compile Include="FindTheDifference.cs" />
     <Compile Include="FirstBadVersion.cs" />
     <Compile Include="FirstUniqueCharacterInAString.cs" />
+    <Compile Include="GasStation.cs" />
     <Compile Include="HappyNumber.cs" />
     <Compile Include="IncreasingTripletSubsequence.cs" />
     <Compile Include="InsertionSortList.cs" />
