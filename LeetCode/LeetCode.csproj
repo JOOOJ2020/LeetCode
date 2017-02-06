@@ -133,6 +133,7 @@
     <Compile Include="RemoveDuplicatesFromSortedArrayII.cs" />
     <Compile Include="RemoveDuplicatesfromSortedList.cs" />
     <Compile Include="RemoveElement.cs" />
+    <Compile Include="ReorderList.cs" />
     <Compile Include="RepeatedDNASequences.cs" />
     <Compile Include="ReverseBits.cs" />
     <Compile Include="ReverseInteger.cs" />
