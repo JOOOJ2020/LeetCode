@@ -109,6 +109,7 @@
     <Compile Include="InvertBinaryTree.cs" />
     <Compile Include="IsomorphicStrings.cs" />
     <Compile Include="KthSmallestElementInABST.cs" />
+    <Compile Include="LicenseKeyFormatting.cs" />
     <Compile Include="LinkedListCycle.cs" />
     <Compile Include="LongestIncreasingSubsequence.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
