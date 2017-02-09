@@ -120,6 +120,7 @@
     <Compile Include="MergeTwoSortedLists.cs" />
     <Compile Include="MissingNumber.cs" />
     <Compile Include="MoveZeroes.cs" />
+    <Compile Include="NextGreaterElement_I.cs" />
     <Compile Include="NumberOf1Bits.cs" />
     <Compile Include="OddEvenLinkedList.cs" />
     <Compile Include="PalindromeLinkedList.cs" />
