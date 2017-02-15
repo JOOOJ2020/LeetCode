@@ -121,6 +121,7 @@
     <Compile Include="MissingNumber.cs" />
     <Compile Include="MoveZeroes.cs" />
     <Compile Include="NextGreaterElement_I.cs" />
+    <Compile Include="NextGreaterElement_II.cs" />
     <Compile Include="NumberOf1Bits.cs" />
     <Compile Include="OddEvenLinkedList.cs" />
     <Compile Include="PalindromeLinkedList.cs" />
