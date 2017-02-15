@@ -94,6 +94,7 @@
     <Compile Include="CountPrimes.cs" />
     <Compile Include="DeleteNodeInALinkedList.cs" />
     <Compile Include="ExcelSheetColumnTitle.cs" />
+    <Compile Include="FindLargestValueInEachTreeRow.cs" />
     <Compile Include="FindMinimuminRotatedSortedArray.cs" />
     <Compile Include="FindTheDifference.cs" />
     <Compile Include="FirstBadVersion.cs" />
