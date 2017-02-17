@@ -157,6 +157,7 @@
     <Compile Include="StringToInteger.cs" />
     <Compile Include="SummaryRanges.cs" />
     <Compile Include="SwapNodesInPairs.cs" />
+    <Compile Include="TopKFrequentElements.cs" />
     <Compile Include="TreeNode.cs" />
     <Compile Include="TwoSum.cs" />
     <Compile Include="UglyNumber.cs" />
