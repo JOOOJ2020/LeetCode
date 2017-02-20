@@ -92,6 +92,7 @@
     <Compile Include="ContainsDuplicateII.cs" />
     <Compile Include="CountingBits.cs" />
     <Compile Include="CountPrimes.cs" />
+    <Compile Include="DeleteNodeInABST.cs" />
     <Compile Include="DeleteNodeInALinkedList.cs" />
     <Compile Include="ExcelSheetColumnTitle.cs" />
     <Compile Include="FindLargestValueInEachTreeRow.cs" />
