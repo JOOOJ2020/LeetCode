@@ -10,27 +10,23 @@ namespace LeetCode
     {
         public int Part(int[] array, int start, int end)
         {
-            if (start < end)
+            // avoid if duplicated items in the array. if i=start and j=end, the loop will never break when array contains duplicate items.
+            int i = start - 1, j = end + 1;
+            int mid = array[(end - start) / 2 + start];
+            while (i < j)
             {
-                // avoid if duplicated items in the array. if i=start and j=end, the loop will never break when array contains duplicate items.
-                int i = start - 1, j = end + 1;
-                int mid = array[(end - start) / 2 + start];
-                while (i < j)
+                while (array[++i] < mid) ;
+
+                while (array[--j] > mid) ;
+
+                if (i < j)
                 {
-                    while (array[++i] < mid) ;
-
-                    while (array[--j] > mid) ;
-
-                    if (i < j)
-                    {
-                        int temp = array[i];
-                        array[i] = array[j];
-                        array[j] = temp;
-                    }
+                    int temp = array[i];
+                    array[i] = array[j];
+                    array[j] = temp;
                 }
-                return j;
             }
-            return start;
+            return j;
         }
 
         public int Part2(int[] array, int start, int end)
@@ -119,22 +115,22 @@ namespace LeetCode
         /// </summary>
         /// <param name="array"></param>
         /// <param name="target"></param>
-        public void ThreePointPartition(int[] array,int target)
+        public void ThreePointPartition(int[] array, int target)
         {
-            if(array==null || array.Length==0)
+            if (array == null || array.Length == 0)
             {
                 throw new ArgumentNullException();
             }
             int i = 0, pos = 0, j = array.Length - 1;
-            while(pos<=j)
+            while (pos <= j)
             {
-                if(array[pos]<target)
+                if (array[pos] < target)
                 {
                     Swap(array, i, pos);
                     i++;
                     pos++;
                 }
-                else if(array[pos]>target)
+                else if (array[pos] > target)
                 {
                     Swap(array, pos, j);
                     j--;
@@ -146,7 +142,7 @@ namespace LeetCode
             }
         }
 
-        private void Swap(int[] array,int start,int end)
+        private void Swap(int[] array, int start, int end)
         {
             int temp = array[start];
             array[start] = array[end];
