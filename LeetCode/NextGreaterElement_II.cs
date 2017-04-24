@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace LeetCode
 {
@@ -28,6 +29,7 @@ namespace LeetCode
                 return nums;
             }
             int[] result = new int[nums.Length];
+            result = result.Select(t => t = -1).ToArray();
             Stack<int> stack = new Stack<int>();
             for (int i = 0; i < nums.Length * 2; i++)
             {
