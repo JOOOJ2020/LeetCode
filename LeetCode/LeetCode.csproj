@@ -128,6 +128,7 @@
     <Compile Include="NumberOf1Bits.cs" />
     <Compile Include="OddEvenLinkedList.cs" />
     <Compile Include="PalindromeLinkedList.cs" />
+    <Compile Include="Partition.cs" />
     <Compile Include="PathSum.cs" />
     <Compile Include="PowerOfTwo.cs" />
     <Compile Include="Program.cs" />
