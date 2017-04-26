@@ -22,8 +22,7 @@
         {
             if (l1 == null) return l2;
             if (l2 == null) return l1;
-            if (l1 != null && l2 == null) return l1;
-            if (l2 != null && l1 == null) return l2;
+            
             ListNode head = null, n1 = l1, n2 = l2;
             if (n1.val > n2.val) { head = n2; n2 = n2.next; }
             else { head = n1; n1 = n1.next; }
