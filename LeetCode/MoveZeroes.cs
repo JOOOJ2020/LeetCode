@@ -42,5 +42,38 @@ namespace LeetCode
                 }
             }
         }
+
+        /// <summary>
+        /// This function is keep items order in the nums if move zero into the tail.
+        /// </summary>
+        /// <param name="nums"></param>
+        public void Solution2(int[] nums)
+        {
+            if (nums == null)
+            {
+                throw new ArgumentNullException();
+            }
+            int i = 0, j = i+1;
+            while(i<=j && j<nums.Length)
+            {
+                if(nums[i]!=0)
+                {
+                    i++;
+                    j++;
+                }
+                else if(nums[i]==0 && nums[j]!=0)
+                {
+                    int temp = nums[i];
+                    nums[i] = nums[j];
+                    nums[j] = temp;
+                    i++;
+                    j++;
+                }
+                else if(nums[i]==0 && nums[j]==0)
+                {
+                    j++;
+                }
+            }
+        }
     }
 }
