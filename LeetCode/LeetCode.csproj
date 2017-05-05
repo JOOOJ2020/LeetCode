@@ -112,6 +112,7 @@
     <Compile Include="IntersectionOfTwoLinkedLists.cs" />
     <Compile Include="InvertBinaryTree.cs" />
     <Compile Include="IsomorphicStrings.cs" />
+    <Compile Include="K-diffPairsInAnArray.cs" />
     <Compile Include="KthSmallestElementInABST.cs" />
     <Compile Include="LicenseKeyFormatting.cs" />
     <Compile Include="LinkedListCycle.cs" />
