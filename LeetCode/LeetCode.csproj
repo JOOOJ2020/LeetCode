@@ -96,6 +96,7 @@
     <Compile Include="DeleteNodeInABST.cs" />
     <Compile Include="DeleteNodeInALinkedList.cs" />
     <Compile Include="ExcelSheetColumnTitle.cs" />
+    <Compile Include="ExistDuplicateNum.cs" />
     <Compile Include="FindLargestValueInEachTreeRow.cs" />
     <Compile Include="FindMinimuminRotatedSortedArray.cs" />
     <Compile Include="FindTheDifference.cs" />
