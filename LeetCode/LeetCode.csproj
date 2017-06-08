@@ -134,6 +134,7 @@
     <Compile Include="PalindromeLinkedList.cs" />
     <Compile Include="Partition.cs" />
     <Compile Include="PathSum.cs" />
+    <Compile Include="PermutationCombination.cs" />
     <Compile Include="PowerOfTwo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
