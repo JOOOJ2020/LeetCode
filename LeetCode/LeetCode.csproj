@@ -117,6 +117,7 @@
     <Compile Include="KthSmallestElementInABST.cs" />
     <Compile Include="LicenseKeyFormatting.cs" />
     <Compile Include="LinkedListCycle.cs" />
+    <Compile Include="LongestCommenSequence.cs" />
     <Compile Include="LongestIncreasingSubsequence.cs" />
     <Compile Include="LongestPalindromeString.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
